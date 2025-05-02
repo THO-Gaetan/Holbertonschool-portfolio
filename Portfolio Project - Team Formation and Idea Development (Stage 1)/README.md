@@ -14,7 +14,18 @@
 
 ## 📖 Overview
 
-IdleQuest is a browser-based idle RPG game that combines satisfying progression systems with minimal active gameplay. Players can engage in various work activities, go on adventures, and collect rewards—all while the game progresses even when they're not actively playing!
+IdleQuestLine is a browser-based idle RPG game that combines satisfying progression systems with minimal active gameplay. Players can engage in various work activities, go on adventures, and collect rewards—all while the game progresses even when they're not actively playing!
+
+## 🎓 Portfolio Project
+
+IdleQuestLine is an individual portfolio project developed as part of the Holberton School curriculum:
+
+- **Development:** Created entirely by Pineiro Gaetan as a showcase of full-stack development skills
+- **Process:** Following an iterative development approach with clear development phases and checkpoints
+- **Learning Goals:** Demonstrating proficiency in frontend/backend integration, database management, and user authentication
+- **Timeline:** Project development from April 21 until  July 18, 2025
+
+This project represents the culmination of my learning experience at Holberton School and demonstrates my ability to independently design and implement a complete web application.
 
 ## 🔍 Core Features
 
@@ -86,14 +97,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Pineiro Gaetan - gaetan.pineiro@gmail.com
 
 Github Link: [https://github.com/THO-Gaetan](https://github.com/THO-Gaetan)
-
-## 🎓 Portfolio Project
-
-IdleQuestLine is an individual portfolio project developed as part of the Holberton School curriculum:
-
-- **Development:** Created entirely by Pineiro Gaetan as a showcase of full-stack development skills
-- **Process:** Following an iterative development approach with clear development phases and checkpoints
-- **Learning Goals:** Demonstrating proficiency in frontend/backend integration, database management, and user authentication
-- **Timeline:** Project development from April 21 until  July 18, 2025
-
-This project represents the culmination of my learning experience at Holberton School and demonstrates my ability to independently design and implement a complete web application.
