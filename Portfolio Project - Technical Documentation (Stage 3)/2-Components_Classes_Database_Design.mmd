@@ -1,0 +1,16 @@
+classDiagram
+  class TaskButton {
+    +startTask()
+  }
+  class TimerDisplay {
+    +updateTime()
+  }
+  class RewardModal {
+    +showRewards()
+  }
+  class PlayerStats {
+    +displayStats()
+  }
+  TaskButton --> TimerDisplay
+  TimerDisplay --> RewardModal
+  PlayerStats --> RewardModal

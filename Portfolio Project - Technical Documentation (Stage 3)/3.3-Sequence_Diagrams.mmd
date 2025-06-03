@@ -1,0 +1,8 @@
+sequenceDiagram
+  participant P as Player
+  participant F as Frontend
+  participant DB as Firebase
+  P->>F: Clicks "Profile"
+  F->>DB: Request stats
+  DB-->>F: Send stats
+  F->>P: Display stats

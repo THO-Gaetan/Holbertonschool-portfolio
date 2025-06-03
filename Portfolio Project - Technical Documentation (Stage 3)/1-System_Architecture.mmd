@@ -1,0 +1,7 @@
+flowchart TD
+  Player -->|Clicks Task| Frontend
+  Frontend -->|Save Task Data| LocalStorage
+  Frontend -->|Save Task Data| FirebaseFirestore
+  Frontend -->|Check Task Progress| FirebaseFirestore
+  Frontend -->|Retrieve Player Stats| FirebaseFirestore
+  FirebaseFirestore -->|Store & Retrieve Data| Firebase

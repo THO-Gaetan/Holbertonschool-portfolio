@@ -1,0 +1,8 @@
+sequenceDiagram
+  participant P as Player
+  participant F as Frontend
+  participant DB as Firebase
+  P->>F: Clicks "Start Task"
+  F->>F: Record startTime
+  F->>DB: Save task data
+  F->>F: Update timer UI

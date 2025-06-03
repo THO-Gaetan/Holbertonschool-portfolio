@@ -1,0 +1,9 @@
+sequenceDiagram
+  participant P as Player
+  participant F as Frontend
+  participant DB as Firebase
+  P->>F: Opens game
+  F->>DB: Retrieve task data
+  F->>F: Calculate time elapsed
+  F->>P: Show reward popup
+  F->>DB: Update player stats
